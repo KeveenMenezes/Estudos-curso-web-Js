@@ -1,0 +1,15 @@
+{
+    "workbench.editor.enablePreviewFromQuickOpen": true,
+    "workbench.editor.enablePreviewFromCodeNavigation": true,
+    "editor.suggest.preview": true,
+    "markdown.preview.breaks": true,
+    "markdown.preview.openMarkdownLinks": "inEditor",
+    "markdown.preview.typographer": true,
+    "markdown-preview-enhanced.enableCriticMarkupSyntax": false,
+    "markdown-preview-enhanced.enableEmojiSyntax": false,
+    "editor.minimap.renderCharacters": false,
+    "workbench.editor.enablePreview": true,
+    "vscode-mysql.enableDelimiterOperator": true,
+    "vscode-mysql.enableTelemetry": true,
+    "vsintellicode.sql.completionsEnabled": false
+}
