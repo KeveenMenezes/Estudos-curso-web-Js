@@ -1,2 +1,3 @@
-# Estudos Curso web Js
- Material de estudos do curso udemy WEB Morderno 2022
+# Web Moderno com JavaScript 2020 COMPLETO + Projetos
+
+Para mais informações acessar https://www.cod3r.com.br/courses/web-moderno
